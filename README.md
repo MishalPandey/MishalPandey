@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Mishal Pandey</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/811492426586786051/">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - 🔭 I’m currently working on **various Android projects**
   
