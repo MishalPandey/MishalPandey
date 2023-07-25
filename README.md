@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **various Android projects**
   
 
-- 🌱 I’m currently learning **I’m currently learning Android Backend, DSA and sharpening my skills in CP.**
+- 🌱 I’m currently learning ** Android Backend, DSA and sharpening my skills in CP.**
 
 - 💬 Talk to me about **C++, Java, Kotlin, Android, CP**
 
